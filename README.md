@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m Solution Architect at Amazon Web Services Japan.
+- 📝 My Blog: https://nikuyoshi.hatenablog.com/
+- 📷 My portfolio: https://500px.com/p/nikuyoshi
+- 🗾 Often tweet in Japanese about Tech, Software Development, and Gadgets.  https://twitter.com/nikuyoshi
+
 <!--
 **nikuyoshi/nikuyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
