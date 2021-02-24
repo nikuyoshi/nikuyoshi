@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Solution Architect at Amazon Web Services Japan.
+- 🔭 I work for Amazon Web Services Japan as Solution Architect.
 - 📝 My Blog: https://nikuyoshi.hatenablog.com/
 - 📷 My portfolio: https://500px.com/p/nikuyoshi
 - 🗾 Often tweet in Japanese about Tech, Software Development, and Gadgets.  https://twitter.com/nikuyoshi
