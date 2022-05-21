@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I'm working for Amazon Web Services Japan as Solution Architect.
+This account is for private use. If you would like to see work activities, please click the following URL. https://github.com/uchiroki
+
+- 🔭 I work for Amazon Web Services Japan as Solutions Architect.
 - 📝 My Blog: https://nikuyoshi.hatenablog.com/
 - 📷 My portfolio: https://500px.com/p/nikuyoshi
-- 🗾 Often tweet in Japanese about Tech, Software Development, and Gadgets.  https://twitter.com/nikuyoshi
+- 🗾 I often tweet in Japanese about Tech, Software Development, and Gadgets.  https://twitter.com/nikuyoshi
 
 <!--
 **nikuyoshi/nikuyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
