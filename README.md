@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-This account is for private use. If you would like to see work activities, please click the following URL. https://github.com/uchiroki
-
-- 🔭 I work for Amazon Web Services Japan as Solutions Architect.
+- 🔭 I work for Cisco (Splunk) as Senior Solutions Engineer.
 - 📝 My Blog: https://nikuyoshi.hatenablog.com/
 - 📷 My portfolio: https://500px.com/p/nikuyoshi
 - 🗾 I often tweet in Japanese about Tech, Software Development, and Gadgets.  https://twitter.com/nikuyoshi
